@@ -1,0 +1,4 @@
+# ML-Practical-Ensemble-Learning-Models
+### Using titanic dataset. Do the pre-processing of the dataset if required and create a ensemble models using any of the 2 ensemble bagging methods like random forest , logistic regression, etc. Evaluate and visualize the result.
+### Use breast cancer dataset. The dataset contains a total number of 10 features labeled in either benign or malignant classes. The features have 699 instances out of which 16 feature values are missing. The dataset only containsnumeric values. Implement the ensemble method using Decision tree classifiers.
+### Using Pima Indian Diabities dataset. Do the preprocessing if required and extract the features from it and Apply a XGBoost and AdaBoost Ensemble Methods and construct the SVM classification model for the dataset. Analyze the accuracy of your model.
